@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="list_entries">
+            <item>a1</item>
+            <item>b1</item>
+            <item>c1</item>
+            <item>d1</item>
+        </string-array>
+        
+        <string-array name="list_entries_value">
+            <item>a2</item>
+            <item>b2</item>
+            <item>c2</item>
+            <item>d2</item>  </string-array>
+        
+        <string-array name="list_entries_value2">
+            <item>a3</item>
+            <item>b3</item>
+            <item>c3</item>
+            <item>d3</item>
+        </string-array>
+</resources>
